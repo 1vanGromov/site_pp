@@ -1,10 +1,7 @@
 <h1 align="center"> Тестовый сайт для ознакомления с функциями HTML </h1>
 <h2 align="center"> 
-
-![html](https://img.shields.io/badge/HTML%20-%20h?style=flat-square&color=purple) ![](https://img.shields.io/badge/JavaScript%20-%20h?style=flat-square&color=violet)
-
  
-![logo](./images/logo.png)
+![logo](./Photki/рисунок1.png)
 
 </h2>
 
